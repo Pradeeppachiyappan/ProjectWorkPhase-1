@@ -111,7 +111,7 @@ Frontend/ (React)
 
 3. Kumar, R., Singh, A., & Patel, M. (2025). Enhancing Food Sustainability Through Technological Innovation: A Paradigmatic Approach to Minimizing Household Food Wastage via an AI-Enabled Application. Journal of Environmental Informatics & Smart Technology, 8(2), 2025.
 
-4 .Saleth, E., Balaji, S., Yashema, N., & Akshaya, D. (2025). Zero Impact AI-Driven Food Redistribution System for Sustainable Waste Reduction. International Journal for Research Trends & Innovation, 10(4), April 2025.
+4. Saleth, E., Balaji, S., Yashema, N., & Akshaya, D. (2025). Zero Impact AI-Driven Food Redistribution System for Sustainable Waste Reduction. International Journal for Research Trends & Innovation, 10(4), April 2025.
 
 
 
