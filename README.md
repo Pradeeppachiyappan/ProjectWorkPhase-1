@@ -34,7 +34,7 @@
 7. sustainability Integration
 
 
-## Architectue flow Foodloop ->
+## Architectue flow of Foodloop ->
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/c1459df1-c223-4cc2-98a8-a4ecb7133f22" />
 
